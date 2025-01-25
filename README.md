@@ -1,4 +1,4 @@
-# oxford-semantic-segmentation
+# Results
 Using a fully convolutional network with a ResNet101 backbone, a model was trained to achieve the following performance metrics on the Oxford-IIIT Pet dataset.
 
 | IoU  | IoU (excluding background class) | Pixel Accuracy | Pixel Accuracy (excluding background class) |
